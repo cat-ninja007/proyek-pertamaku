@@ -1,2 +1,4 @@
 Halo semuanya
-Ini adalah tulisan pertamaku
+
+Aku sudah belajar programming
+Ini adalah latihan menggunakan git dan github
